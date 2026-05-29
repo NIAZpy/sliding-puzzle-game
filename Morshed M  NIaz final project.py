@@ -6,11 +6,12 @@ import winsound
 SIZE = 3
 
 IMAGE_PATHS = [
-    "code in palce/bird.jpg",
-    "code in palce/fish.jpg",
-    "code in palce/rabbit.jpeg",
-    "code in palce/snake.jpg"
+    "bird.jpg",
+    "fish.jpg",
+    "rabbit.jpeg",
+    "snake.jpg"
 ]
+
 
 
 # ---------------------------------------------------------
